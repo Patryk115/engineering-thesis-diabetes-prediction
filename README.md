@@ -82,4 +82,4 @@ streamlit run diabetes_prediction_app.py
 ---
 
 ## Author
-[Connect with me on LinkedIn](https://www.linkedin.com/in/patryk-kindra-228a97365/) ````
+* **Patryk Kindra** *[LinkedIn](https://www.linkedin.com/in/patryk-kindra-228a97365/)
