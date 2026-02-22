@@ -30,6 +30,8 @@ Instead of providing a final medical diagnosis, the application evaluates user i
 
 ## Application Preview
 
+<img width="1919" height="949" alt="image" src="https://github.com/user-attachments/assets/501dcc8d-98bf-4d19-8a0d-3499ca1f0948" />
+
 ---
 
 ## How to Run the App Locally
